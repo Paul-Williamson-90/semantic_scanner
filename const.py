@@ -1,0 +1,10 @@
+W = 30
+S = 10
+SPLITTER = "window" # "chars"
+WORDS_OR_CHARS = "words" # "chars"
+N_FEW_SHOTS = 5
+DISTANCE = "cosine" # "euclidean"
+SPLIT_CHARS = [".", "!", "?", ";", ":", "\n"]
+MODEL_PATH = None
+CONDITIONS_CLASSIFIER_MODEL_PATH = r"C:\Users\paulw\Documents\QuantSpark\semantic_scanner\models\clause_classification_bert_16-01-2024_18-56-5016-01-2024_19-33-44"
+IMPORTANCE_CLASSIFIER_MODEL_PATH = r"C:\Users\paulw\Documents\QuantSpark\semantic_scanner\models\importance_classification_bert_16-01-2024_21-44-1216-01-2024_22-07-15"

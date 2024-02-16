@@ -1,0 +1,6 @@
+CUAD_v1/*
+clause_classification_bert*
+__pycache__/*
+importance_classification*
+logs/*
+models/*

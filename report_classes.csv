@@ -1,0 +1,48 @@
+label,count
+Parties-Answer,255
+Document Name,255
+Parties,255
+Agreement Date,231
+Agreement Date-Answer,229
+Expiration Date,225
+Governing Law,222
+Effective Date,209
+Effective Date-Answer,192
+Anti-assignment,188
+Expiration Date-Answer,171
+Cap on Liability,137
+License Grant,128
+Exclusivity,120
+Audit Rights,109
+Renewal Term,95
+Termination for Convenience,91
+Renewal Term-Answer,89
+Post-termination Services,88
+Revenue-Profit Sharing,83
+Minimum Commitment,82
+Insurance,82
+Non-Transferable License,78
+Change of Control,66
+Uncapped Liability,64
+IP Ownership Assignment,62
+Notice Period to Terminate Renewal,57
+Notice Period to Terminate Renewal- Answer,55
+Covenant not to Sue,50
+ROFR-ROFO-ROFN,42
+Volume Restriction,41
+Competitive Restriction Exception,41
+Non-Compete,41
+Warranty Duration,37
+Affiliate License-Licensee,36
+Irrevocable or Perpetual License,31
+Liquidated Damages,30
+No-Solicit of Employees,29
+Joint IP Ownership,23
+Non-Disparagement,19
+Third Party Beneficiary,15
+Most Favored Nation,14
+No-Solicit of Customers,10
+Affiliate License-Licensor,10
+Unlimited/All-You-Can-Eat License,8
+Price Restrictions,7
+Source Code Escrow,6
